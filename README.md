@@ -16,7 +16,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
      <img align="center" alt="nodejs" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
 Apaixonado por tecnologia e programação, em busca constante de aprendizado e desenvolvimento.
