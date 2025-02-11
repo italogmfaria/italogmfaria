@@ -1,7 +1,7 @@
 ## Olá! Eu sou Ítalo Faria🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/italogmfaria)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/italogmfaria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italogmfaria)
 
 
 ![Faria GitHub stats](https://github-readme-stats.vercel.app/api?username=italogmfaria&show_icons=true&theme=dracula&count_private=true)
