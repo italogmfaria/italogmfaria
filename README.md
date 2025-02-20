@@ -18,5 +18,5 @@
 
 </div><br/>
 
-Apaixonado por tecnologia e programação, em busca constante de aprendizado e desenvolvimento, estudante de Sistemas de Informação buscando oportunidades na área de desenvolvimento, sempre interessado em colaborar em projetos que envolvam tecnologia e inovação, contribuindo com minhas habilidades técnicas e minha capacidade de resolver problemas de forma eficiente.
+Apaixonado por tecnologia e programação, em busca constante de aprendizado e desenvolvimento.
 
