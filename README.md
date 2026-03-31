@@ -66,7 +66,7 @@ Focado em aplicações modernas, escaláveis e com qualidade de código.
 <td align="center" width="25%">
 <strong>Cloud & DevOps</strong><br><br>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github" height="35"/><br><br>
-<code>AWS (EC2 · S3)</code> · <code>Docker</code><br>
+<code>AWS</code> · <code>Docker</code><br>
 <code>Git</code> · <code>GitHub</code>
 </td>
 </tr>
