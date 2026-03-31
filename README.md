@@ -125,15 +125,6 @@ E-commerce de móveis com interface moderna e responsiva.
 </tr>
 </table>
 </div>
-
-<!-- ═══════════════════ STATS ═══════════════════ -->
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italogmfaria&theme=discord_old_blurple" width="90%"/>
-</div>
-
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:0d47a1,100:1a1b27&height=100&section=footer"/>
