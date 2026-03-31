@@ -98,7 +98,7 @@ Sistema <strong>multi-tenant</strong> para gestão de buffets e eventos. Auth JW
 <a href="https://github.com/italogmfaria/inove-web"><img src="https://img.shields.io/badge/Web-181717?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>&nbsp;
 <a href="https://github.com/italogmfaria/inove-app"><img src="https://img.shields.io/badge/Mobile-181717?style=for-the-badge&logo=github&logoColor=white" height="22"/></a>
 <br><br>
-Plataforma educacional para professores com cursos, conteúdos e acompanhamento de progresso. Deploy em AWS.
+Plataforma educacional para professores com cursos, conteúdos e acompanhamento de progresso.
 <br><br>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
