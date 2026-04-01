@@ -11,7 +11,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="65%" align="center">
+<td width="65%" align="justify">
 
 Desenvolvedor Full Stack formado em **Sistemas de Informação** pelo IF Goiano.
 Experiência com front-end, back-end, integração com serviços cloud e metodologias ágeis.
