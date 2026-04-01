@@ -18,12 +18,12 @@ Experiência com front-end, back-end, integração com serviços cloud e metodol
 Focado em aplicações modernas, escaláveis e com qualidade de código.
 
 <br>
-
+<div align="center">
 <a href="https://www.linkedin.com/in/italogmfaria"><img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>&nbsp;
 <a href="mailto:italogmfaria@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35"/></a>&nbsp;
 <a href="https://instagram.com/italogmfaria"><img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>&nbsp;
 <a href="https://github.com/italogmfaria"><img src="https://skillicons.dev/icons?i=github" height="35"/></a>
-
+</div>
 </td>
 <td width="35%" align="center">
 
